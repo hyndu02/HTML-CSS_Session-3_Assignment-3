@@ -1,0 +1,62 @@
+body
+{
+    font-family: 'Lato', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    background-color: rgb(247, 181, 247);
+}
+
+.container
+{
+    width: 1285px;
+    margin: auto;
+}
+
+h1
+{
+    text-align: center;
+    background-color: rgb(230, 231, 167);
+}
+
+h5
+{
+    text-align: center;
+}
+
+.row
+{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.box1
+{
+    width:75%;
+    margin:auto;
+    border: 1px solid black;
+    padding: 20px 15px 20px 15px;
+}
+
+.box1 .box1_1
+{
+    width:50%;
+    margin:auto;
+}
+
+.box1_1 img
+{
+    width:100%;
+}
+
+.box2
+{
+    width: 30%;
+    margin: auto;
+    border: 1px solid black;
+    padding: 15px 15px 15px 15px;
+}
+
+.hy
+{
+    color: rgb(32, 31, 31);
+}
+
